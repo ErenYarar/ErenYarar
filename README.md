@@ -37,4 +37,4 @@ Hi, I'm Eren Yarar, a passionate self-taught web developer from Turkey.
 <br />
 
 ---
-<img align="left" alt="ErenYarar's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ErenYarar&show_icons=true&hide_border=true" />
+![ErenYarar's github stats](https://github-readme-stats.vercel.app/api?username=ErenYarar&show_icons=true&theme=cobalt)
