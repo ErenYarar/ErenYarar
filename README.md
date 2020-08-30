@@ -6,7 +6,7 @@ Hi, I'm Eren Yarar, a passionate self-taught web developer from Turkey.
 
 ## Software Engineer!
 
-- 🔭 I am currently working on web design (Development)
+- 🔭 I am currently working on Web development and Mobile app(Flutter)
 - 🌱 I’m currently learning vue.js & laravel
 - 🥅 2020 Goals: Producing projects
 - ⚡ Fun fact: I love to play games / coding
