@@ -2,12 +2,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ErenYarar8?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2ErenYarar8&screen_name=ErenYarar8)
 
-Hi, I'm Eren Yarar, a passionate self-taught web developer from Turkey.
-
 ## Software Engineer!
 
-- 🔭 I am currently working on Web development and Mobile app(Flutter)
-- 🌱 I’m currently learning vue.js & laravel
+- 🔭 I am currently working on Web development and Mobile app(Flutter & AppInventor)
+- 🌱 I’m currently learning php & laravel
 - 🥅 2020 Goals: Producing projects
 - ⚡ Fun fact: I love software and computers..:)
 
