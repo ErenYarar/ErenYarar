@@ -1,7 +1,5 @@
 ### Hi there, I'm Eren 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ErenYarar8?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2ErenYarar8&screen_name=ErenYarar8)
-
 ## Software Engineer!
 
 - 🔭 I am currently working on Web development and Mobile app(Flutter & AppInventor)
