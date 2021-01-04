@@ -8,9 +8,9 @@
 - ⚡ Fun fact: I love software and computers..:)
 
 ### Connect with me:
-[<img align="left" alt="Eren | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ErenYarar8)
-[<img align="left" alt="Eren | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/eren-yarar-89831a168/)
-[<img align="left" alt="Eren | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/eren_yrr/)
+[<img align="left" alt="Eren | Twitter" width="22px" color="red" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ErenYarar8)
+[<img align="left" alt="Eren | LinkedIn" width="22px" color="red" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/eren-yarar-89831a168/)
+[<img align="left" alt="Eren | Instagram" width="22px" color="red" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/eren_yrr/)
 
 <br />
 
