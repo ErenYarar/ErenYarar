@@ -2,9 +2,9 @@
 
 ## Software Engineer!
 
-- 🔭 I am currently working on Web development and Mobile app(Flutter & AppInventor)
-- 🌱 I’m currently learning php & laravel
-- 🥅 2020 Goals: Producing projects
+- 🔭 I am currently working on Web development & Mobile app(Flutter & AppInventor) & Unity
+- 🌱 I'm developing a 2D & 3D game on Unity
+- 🥅 2020 Goals: Story game development with unity
 - ⚡ Fun fact: I love software and computers..:)
 
 ### Connect with me:
