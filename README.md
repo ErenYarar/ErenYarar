@@ -6,9 +6,9 @@ I am currently working on Web development(Asp.Net Core Mvc) & Mobile app(Flutter
 
 
 ### Connect with me:
-[<img align="left" alt="Eren | Twitter" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/145/145812.svg?token=exp=1612545347~hmac=820f2996ee62dbc742f5a51feb582589" />](https://twitter.com/ErenYarar8)
-[<img align="left" alt="Eren | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612545338~hmac=edde56e42fc476d2179a3c9b9ffe71e8" />](https://www.linkedin.com/in/eren-yarar-89831a168/)
-[<img align="left" alt="Eren | Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1612545332~hmac=0b68a6c5280d6eb01a997d0e5f4b1e15" />](https://www.instagram.com/_erenyrr/)
+[<img align="left" alt="Eren | Twitter" width="22px" src="https://logowiki.net/uploads/logo/t/twitter-3.svg" />](https://twitter.com/ErenYarar8)
+[<img align="left" alt="Eren | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://www.linkedin.com/in/eren-yarar-89831a168/)
+[<img align="left" alt="Eren | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />](https://www.instagram.com/_erenyrr/)
 
 <br />
 
