@@ -2,7 +2,7 @@
 
 ## Software Engineer!
 
-I am currently working on Web development(Asp.Net Core Mvc) & Mobile app(Flutter & AppInventor)
+I am currently working on Web development(Asp.Net Core Mvc) & Mobile app(Flutter & AppInventor & Kotlin)
 
 
 ### Connect with me:
