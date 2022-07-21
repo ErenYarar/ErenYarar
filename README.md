@@ -7,7 +7,7 @@ I am currently working on Web development(Asp.Net Core Mvc) & Mobile app(Flutter
 
 ### Connect with me:
 [<img align="left" alt="Eren | Twitter" width="22px" src="https://logowiki.net/uploads/logo/t/twitter-3.svg" />](https://twitter.com/ErenYarar8)
-[<img align="left" alt="Eren | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://www.linkedin.com/in/eren-yarar-89831a168/)
+[<img align="left" alt="Eren | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/eren-yarar-89831a168/)
 [<img align="left" alt="Eren | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />](https://www.instagram.com/_erenyrr/)
 
 <br />
