@@ -21,4 +21,5 @@
 <br />
 
 ---
-![ErenYarar's github stats](https://github-readme-stats.vercel.app/api?username=ErenYarar&show_icons=true&theme=cobalt)
+
+![ErenYarar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErenYarar&theme=dark&show_icons=true)
