@@ -1,7 +1,7 @@
 ### Hi there, I'm Eren 👋
 
 ## Game Developer
-[<img align="left" alt="Eren | Profile" width="22px" src="#" />](https://github.com/user-attachments/assets/af170acf-6c2d-45b7-9c5e-b7bdc14232c4)
+[!](https://github.com/user-attachments/assets/af170acf-6c2d-45b7-9c5e-b7bdc14232c4)
 
 
 ### Connect with me:
