@@ -1,8 +1,6 @@
 ### Hi there, I'm Eren 👋
 
 ## Game Developer
-[!](https://github.com/user-attachments/assets/af170acf-6c2d-45b7-9c5e-b7bdc14232c4)
-
 
 ### Connect with me:
 [<img align="left" alt="Eren | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/eren-yarar-89831a168/)
