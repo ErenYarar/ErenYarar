@@ -6,7 +6,7 @@
 ### Connect with me:
 [<img align="left" alt="Eren | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/eren-yarar-89831a168/)
 [<img align="left" alt="Eren | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />](https://www.instagram.com/_erenyrr/)
-[Resume_ErenYarar.pdf](https://github.com/user-attachments/files/16560551/Resume_ErenYarar.pdf)
+[<i class='bx bxs-file-pdf'></i>](https://github.com/user-attachments/files/16560551/Resume_ErenYarar.pdf)
 <br />
 
 ### Languages and Tools:
