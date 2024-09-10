@@ -1,7 +1,7 @@
 ### Hi there, I'm Eren 👋
 
 ## Game Developer
-![d4kt3az-6043723b-2d72-4ba3-ae20-3415bfdec731](https://github.com/user-attachments/assets/fd38974e-7b9c-45c8-bd6c-28446da18bcb)
+[<img align="left" alt="Eren | Steam" width="22px" src="https://store.steampowered.com/app/3164600/Exertion/" />](https://github.com/user-attachments/assets/fd38974e-7b9c-45c8-bd6c-28446da18bcb)
 
 ### Connect with me:
 [<img align="left" alt="Eren | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/eren-yarar-89831a168/)
