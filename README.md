@@ -8,7 +8,7 @@
 
 ### Connect with me:
 [<img align="left" alt="Eren | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/eren-yarar-89831a168/)
-[<img align="left" alt="Eren | CV" width="22px" src="https://cdn-icons-png.freepik.com/256/942/942748.png?semt=ais_hybrid" />](https://github.com/user-attachments/files/19758008/CV_Eren.pdf)
+[<img align="left" alt="Eren | CV" width="22px" src="https://cdn-icons-png.freepik.com/256/942/942748.png?semt=ais_hybrid" />](https://github.com/user-attachments/files/28057931/ErenYarar_CV.pdf)
 <br />
 
 ### Languages and Tools:
