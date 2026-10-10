@@ -24,6 +24,5 @@
 
 ---
 
-![ErenYarar's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ErenYarar&theme=dark&show_icons=true)
 
 
